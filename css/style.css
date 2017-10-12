@@ -8,6 +8,11 @@ body {
 
 .carousel {
     position: relative;
-    width: 75%;
+    width: 60%;
     margin: auto;
 }
+
+h1 {
+    color: aliceblue;
+    font-family:'Saira Condensed';
+} 
