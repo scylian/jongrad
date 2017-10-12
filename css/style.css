@@ -1,3 +1,13 @@
 body {
     background-color: #3f4149;
 }
+
+/* carousel fullscreen */
+
+
+
+.carousel {
+    position: relative;
+    width: 75%;
+    margin: auto;
+}
